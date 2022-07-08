@@ -1,18 +1,41 @@
 {
-  "pets": [
-    {
-      "id": 1,
-      "name": "Pummel"
-    },
-    {
-      "id": 2,
-      "name": "Bruno"
-    }
-  ],
-  "owners": [
-    {
-      "id": 1,
-      "name": "typicode"
-    }
-  ]
+    "pets":
+    [
+        {
+            "id": "1",
+            "name": "Pummel",
+            "species": 2,
+            "weight": 2.0,
+            "height": 20.0,
+            "age": 3,
+            "isFemale": false
+        },
+        {
+            "id": "2",
+            "name": "Bruno",
+            "species": 0,
+            "weight": 32.0,
+            "height": 60.0,
+            "age": 4,
+            "isFemale": false
+        },
+        {
+            "id": "3",
+            "name": "Garfield",
+            "species": 1,
+            "weight": 8.0,
+            "height": 34.0,
+            "age": 6,
+            "isFemale": true
+        },
+        {
+            "id": "4",
+            "name": "Harribart",
+            "species": 3,
+            "weight": 0.8,
+            "height": 10.0,
+            "age": 1,
+            "isFemale": true
+        }
+    ]
 }
